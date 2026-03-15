@@ -14,6 +14,8 @@
 | **Mês 2** | Linux Essencial | ✅ Concluído |
 | **Mês 3** | Redes | ⌛ Em andamento... |
 
+- 📁[Plano de estudo detalhado](./projeto-estudo-em-tecnologia.pdf)
+
 **📂Etapas do Projeto.**
 
 - 📁[ Mês 1 - Virtualização ] 
@@ -56,9 +58,9 @@
   
   -**Entregas:**
 
-  - 📁[Plano de estudo detalhado](./projeto-estudo-em-tecnologia.pdf)
-
   -📄[Relatório Técnico - Mês 3]
+
+  -📈[Diagrama de Rede]
 
   -📈[Diagrama de Rede]
   
