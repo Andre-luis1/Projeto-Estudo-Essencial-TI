@@ -1,4 +1,4 @@
-# 🗂️ Projeto-Estudo-Essencial-TI
+# 🗂️ Projeto-formação-essencial-em-TI
  Projeto autodidata com foco principal no desenvolvimento de conceitos básicos da área de tecnologia e a criação de um portfólio inicial para suprir a falta de experiência real na área. 
 
  -🎓 Estudante de Gestão de Tecnologia da Informação.
@@ -24,13 +24,13 @@
   
   -**Entregas:**
 
-    -📄[Relatório Técnico - Mês 1]
+    -📄[Relatório Técnico - Mês 1](./mes-1-virtualizacao-de-ambientes.pdf)
   
-    -🎞️[Vídeo Demonstrativo do Ambiente - **Windows**]
+    -🎞️[Vídeo Demonstrativo do Ambiente - **Windows**](https://youtu.be/eR2_aFQZHGo?si=CX_w9Ik-v_s9UhE-)
   
-    -🎞️[Vídeo Demonstrativo do Ambiente - **Linux**]
+    -🎞️[Vídeo Demonstrativo do Ambiente - **Linux**](https://youtu.be/GaKhp1Y2os8?si=bK8t6uGzg4I7skOI)
 
-    -📈[Diagrama do Ambiente Virtual]
+    -📈[Diagrama do Ambiente Virtual](./diagrama-mes-1.jpeg)
   
 - 📁[ Mês 2 - Linux ]
   
@@ -42,11 +42,11 @@
   
   -**Entregas:**
   
-    -📄[Relatório Técnico - Mês 2]
+    -📄[Relatório Técnico - Mês 2](./mes-2-linux-essencial.pdf)
   
-    -📄[Relatório - Execução Servidor Linux]
+    -📄[Relatório - Execução Servidor Linux](./projeto-servidor-linux.pdf)
   
-    -📈[Diagrama do Servidor]
+    -📈[Diagrama do Servidor](./diagrama-server-linux.png)
   
 - 📁[ Mês 3 - Redes ]
   
@@ -55,6 +55,8 @@
   -**Conceitos:** IP, Máscaras, DNS, Ping, netstat, traceroute, Gateway, Redes.
   
   -**Entregas:**
+
+  - 📁[Plano de estudo detalhado](./projeto-estudo-em-tecnologia.pdf)
 
   -📄[Relatório Técnico - Mês 3]
 
