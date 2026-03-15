@@ -61,7 +61,3 @@
   -📄[Relatório Técnico - Mês 3]
 
   -📈[Diagrama de Rede]
-
-  -📈[Diagrama de Rede]
-  
-    -📄[Relatório Técnico - Mês 
