@@ -1,5 +1,5 @@
 # 🗂️ Projeto-formação-essencial-em-TI
- Projeto autodidata com foco principal no desenvolvimento de conceitos básicos da área de tecnologia e a criação de um portfólio inicial para suprir a falta de experiência real na área. 
+ Projeto autodidata com foco principal no desenvolvimento de conceitos básicos da área de tecnologia e a criação de um portfólio inicial para suprir a falta de experiência técnica real na área. 
 
  -🎓 Estudante de Gestão de Tecnologia da Informação.
 
@@ -12,9 +12,8 @@
 |------|------|--------|
 | **Mês 1** | Virtualização e SO |  ✅ Concluído |
 | **Mês 2** | Linux Essencial | ✅ Concluído |
-| **Mês 3** | Redes | ⌛ Em andamento... |
 
-- 📁[Plano de estudo detalhado](./projeto-estudo-em-tecnologia.pdf)
+- 📁[Plano de estudo detalhado](plano-de-estudo-em-tecnologia.pdf)
 
 **📂Etapas do Projeto.**
 
@@ -50,14 +49,3 @@
   
     -📈[Diagrama do Servidor](./diagrama-server-linux.png)
   
-- 📁[ Mês 3 - Redes ]
-  
-  ▪️**Resumo:** Simulação de rede corporativa em ambiente virtual.
-  
-  -**Conceitos:** IP, Máscaras, DNS, Ping, netstat, traceroute, Gateway, Redes.
-  
-  -**Entregas:**
-
-  -📄[Relatório Técnico - Mês 3]
-
-  -📈[Diagrama de Rede]
